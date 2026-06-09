@@ -206,7 +206,7 @@ export default function Home() {
                   strokeWidth="2"
                   style={{ fontSize: "94px", fontFamily: "inherit" }}
                 >
-                 Vara prasad Palivela
+                 Vara prasad
                 </text>
               </svg>
               <svg
@@ -246,7 +246,7 @@ export default function Home() {
                   strokeWidth="2"
                   style={{ fontSize: "112px", fontFamily: "inherit" }}
                 >
-                  Vara prasad Palivela
+                  Vara prasad
                 </text>
               </svg>
               <svg
@@ -286,11 +286,11 @@ export default function Home() {
                   strokeWidth="2"
                   style={{ fontSize: "133px", fontFamily: "inherit" }}
                 >
-                  Vara prasad 
+                  Vara prasad
                 </text>
               </svg>
               <h1 className="text-6xl md:text-8xl lg:text-9xl font-bold text-center relative z-10 whitespace-nowrap">
-                Vara prasad 
+                Vara prasad
               </h1>
             </div>
 
