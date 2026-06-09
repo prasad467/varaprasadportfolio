@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vara-prasad-portfolio.vercel.app/sitemap.xml
